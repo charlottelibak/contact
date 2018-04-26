@@ -18,7 +18,7 @@
        <input class="form-control" type="text" name="mail" placeholder="Your E-mail">
        <input class="form-control" type="text" name="subject" placeholder="subject"><br>
        <textarea class="form-control" name="message" placeholder="Message" rows="4" required></textarea><br>
-       <button type="submit" class="submit" value="Send Message"></button> 
+       <input type="submit" class="submit" value="Send Message">
        </form>
         
     </div>
